@@ -1,6 +1,6 @@
 
-- 👋 Hi, I’m @Ajay8384
-- 👀 I’m interested in learning DSA,C,JAVA,HTML,CSS, JAVASCRIPT,C++
+- 👋 Hi, I’m Ajaykumar
+- 👀 I’m very much interested in learning DSA,C,JAVA,HTML,CSS, JAVASCRIPT,C++
 - 🌱 I’m currently learning C,JAVA,DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
